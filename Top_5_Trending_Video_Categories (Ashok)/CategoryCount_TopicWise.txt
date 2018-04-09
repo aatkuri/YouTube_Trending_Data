@@ -1,0 +1,1296 @@
+27	#Mind Warehouse	3
+22	100isNow	1
+10	112VEVO	1
+25	1791L	4
+1	20th Century Fox	19
+10	2CELLOS	4
+24	30 Rock Official	3
+17	365DegreeHighlights	2
+27	3Blue1Brown	2
+25	69 detik	4
+20	98DEMAKE	1
+10	A Queen Of Magic	1
+1	A24	11
+29	AARP	3
+24	ABC Action News	2
+25	ABC Action News	4
+25	ABC News	27
+24	ABC Television Network	7
+22	ABN AMRO	4
+17	ACC Digital Network	1
+1	AIRBORNE-FILMS	2
+22	AMAZING HOODFACTSUNCUT	4
+10	ANDREW HUANG	9
+22	APaperPlaneADay	3
+24	ASMR Darling	5
+10	AT&T	1
+24	Aaron Esser	1
+24	Access Hollywood	4
+22	Adam Sifounakis	1
+1	Adeel of Steel	2
+25	AirmanMagazineOnline	1
+25	Al Jazeera Arabic قناة الجزيرة	1
+25	Al Jazeera English	16
+17	Alabama Crimson Tide on AL.com	6
+10	Alan Walker	5
+10	Alec Benjamin	7
+10	Alesso	7
+10	AlexAionoVEVO	9
+28	Alexis Ohanian	7
+26	AlishaMarie	10
+10	Alvaro Veloz	3
+10	AlyAndAJVEVO	4
+24	Alyosha Tanetović	3
+24	Amazing Timelapse	1
+1	Amazon Studios	9
+24	Amazon Video	16
+26	Amber Scholl	32
+24	America's Got Talent	13
+25	American Revolution	1
+23	Ami Yamato	1
+26	Amy Macedo	7
+24	Andre Black Nerd	6
+28	Andreas Spiess	2
+26	AndreasChoice	4
+17	Andri Ragettli	1
+22	Andro Hack	3
+15	Animal Adventure Park	6
+23	Anna Akana	5
+1	Annapurna Channel	4
+23	AnthonyPadilla	16
+23	Anwar Jibawi	20
+28	Apple	11
+28	AppleInsider	2
+28	Arcus-3D	2
+1	Arden Rose	6
+26	Ari Fitz	4
+22	Ariel Bissett	4
+22	Armis	2
+28	AsapSCIENCE	21
+10	Ashley Tisdale	2
+26	Ashley Tisdale	3
+20	Asmodee Digital	2
+25	Associated Press	7
+10	Atlantic Records	6
+2	Audi USA	4
+23	Auralnauts	6
+28	Austin Evans	17
+28	AvE	5
+10	AvengedSevenfoldVEVO	1
+10	AviciiOfficialVEVO	9
+23	AvrilFalls	2
+23	Awkward Puppets	6
+15	BBC Earth	9
+25	BBC News	23
+25	BBC Newsnight	6
+10	BBC Radio 1	8
+24	BBC Three	2
+10	BBCRadio1VEVO	14
+24	BETNetworks	8
+28	BLOODHOUND SSC - 1,000 mph car	5
+2	BMW	1
+10	BRADPAISLEYVEVO	4
+24	BUILD Series	3
+24	BURGER KING	3
+23	Bad Lip Reading	6
+2	Bad Obsession Motorsport	3
+17	BadmintonWorld.tv	1
+10	Bailey Bryan	2
+22	Bart & Geo	5
+24	Be Amazed	4
+10	BeaMillerVEVO	4
+10	Beats 1 Radio	4
+10	Bebe Rexha	7
+10	BeckVEVO	6
+10	Becky G México	3
+17	Betfair	3
+26	Bethany Mota	4
+10	Bhad Bhabie	6
+17	Big Ten Network	12
+23	BigDawsTv	3
+10	BillieEilishVEVO	4
+24	Binging with Babish	11
+22	Bird Plan	2
+22	Bis Kack	2
+10	BishopBriggsVEVO	4
+10	Björk	4
+1	BlackStardust	1
+10	Blake Shelton	5
+28	Bloomberg	3
+22	Bobby Walia	3
+10	BobiAndonovVEVO	2
+28	Boeing	2
+22	Boldly	11
+2	Bollinger Motors	2
+24	Bon Appétit	2
+26	Bon Appétit	4
+10	BonnieMcKeeVEVO	1
+20	BonusXP	5
+17	Borussia Dortmund	4
+17	Botingol	2
+17	Botingol TV	2
+26	Brad Hall	2
+10	Brainfeedermedia	1
+22	BransonTim83	2
+24	Brat	3
+17	Braun	4
+15	Brave Wilderness	29
+24	Bravo	6
+24	Breakfast Club Power 105.1 FM	6
+10	Brett Eldredge	5
+24	Brian Tyler Cohen	6
+26	Brothers Green Eats	8
+10	Bruno Mars	5
+22	Burstow & Hewett	3
+27	Business Casual	4
+25	Business Insider	16
+23	Buttered Side Down	3
+22	BuzzFeed Celeb	14
+22	BuzzFeed News	5
+26	BuzzFeed Nifty	8
+17	BuzzFeedBlue	3
+19	BuzzFeedBlue	4
+20	BuzzFeedBlue	1
+22	BuzzFeedBlue	18
+22	BuzzFeedVideo	28
+10	BØRNSmusicVEVO	5
+25	C-SPAN	5
+10	CAPITAL KINGS	2
+25	CBC News	9
+24	CBS	5
+25	CBS Baltimore	4
+25	CBS Los Angeles	11
+25	CBS Miami	3
+25	CBS New York	5
+25	CBS News	22
+25	CBS North Carolina	6
+25	CBS Sunday Morning	5
+25	CBS This Morning	13
+27	CGP Grey	7
+25	CGTN	8
+25	CGTN America	5
+24	CMT	3
+25	CNBC	2
+10	CNCOVEVO	2
+43	CNET	2
+25	CNN	20
+25	CNNMoney	9
+17	COPA90	3
+26	COVERGIRL	4
+17	Cal Bears	2
+25	California Senate Democrats	3
+20	Call of Duty	2
+24	Calvin Klein	2
+10	CalvinHarrisVEVO	2
+10	Camila Cabello	5
+22	Candace Lowry	2
+22	CaptainSparklez	2
+22	Cardi B	5
+26	Carli Bybel	14
+10	CarlosVivesVEVO	5
+10	CarlyPearceVEVO	1
+10	CarlyRaeJepsenVEVO	5
+17	Carolina Panthers	4
+24	Carrie Hope Fletcher	3
+1	CartoonHangover	5
+26	Casey Holmes	17
+22	CaseyNeistat	19
+23	Casually Explained	6
+22	CatCreature	3
+25	Caters Clips	2
+24	CelebNews17	6
+10	Chance The Rapper	1
+24	ChangeFor TheBetter2!	2
+24	Channel Awesome	10
+10	Charlie Puth	10
+24	Charlie Rose	6
+26	Chloe Morello	17
+17	ChooseSpy	1
+22	Chris Cohoon	5
+19	Chris Goossens	6
+22	Chris Reinacher	9
+24	Chris Stuckmann	3
+23	Chris and Jack	5
+2	ChrisFix	5
+24	ChrisMD	5
+10	ChrisYoungVEVO	19
+26	Christen Dominique	19
+22	Christy Keane	4
+28	Chubbyemu	2
+24	Cigna	3
+24	CineFix	8
+1	CinemaSins	21
+22	Citron Research	4
+22	Claire Marshall	4
+20	Clash of Clans	5
+24	ClevverTV	6
+15	Clicker Learning Institute for Cats and Kittens	1
+17	Coca-Cola	2
+27	Cody'sLab	6
+28	ColdFusion	4
+22	Cole Truax	2
+15	Cole and Marmalade	5
+23	Colleen Vlogs	4
+23	CollegeHumor	37
+24	ColliderVideos	13
+24	Columbia Sportswear	5
+23	Comedy Central	6
+1	Comicbook.com	1
+24	Complex	7
+24	Complex News	1
+10	Concert Daily	1
+22	ConnorFranta	2
+10	Conor Maynard	1
+22	CorkGaines	2
+1	Cosmic Book News	2
+26	Couponraja	2
+25	Courageous Conservatives PAC	5
+26	Courtelizz1	11
+23	Cracked	25
+25	Cracken News	7
+10	CraigDavidVEVO	2
+27	CrashCourse	3
+26	Crate and Barrel	5
+24	CrazyLaughAction	1
+28	CrazyRussianHacker	19
+10	CrowderVEVO	5
+1	Cub Studio	5
+26	CupcakeJemma	10
+17	D3sports.com	5
+17	DALLMYD	4
+25	DCCCVideo	2
+10	DJSnakeVEVO	4
+10	DKIRK	5
+25	DNAinfo New York	5
+25	DNN Deplorable News Network	2
+24	Daily Exclusive	1
+23	DailyPicksandFlicks	1
+10	Dainá	4
+22	Daisy Marquez	5
+22	Dan Helmer for Congress	5
+22	Dan Nystedt	4
+17	Dan Patrick Show	3
+10	Dance with Dre	2
+24	Dancing With The Stars	24
+22	Daniel Howell	4
+10	DanielleBradberyVEVO	6
+10	DariusRuckerVEVO	14
+27	Darren Doucette	3
+24	DarthLucifer08	2
+10	DaveEastVEVO	1
+26	DaveHax	11
+10	David Archuleta	3
+22	David Carter	4
+10	David Guetta	5
+25	David López	3
+23	DavidParody	4
+22	Davide Quaranta	5
+10	Dawayne Kirkland	1
+24	Deadline Hollywood	1
+2	DeathByPixel	3
+24	Demi Lovato	11
+22	Demi Lovato News	4
+10	DemiLovatoVEVO	5
+26	Denyer Pro Photography & Retouching	4
+10	DepecheModeVEVO	9
+26	Desi Perkins	14
+17	DetPistonsOfficial	3
+1	Disney•Pixar	6
+25	DoctorOz	1
+23	Dolan Twins	9
+23	Domics	4
+23	Domo and Crissy	5
+27	Don Giller	4
+22	Donald Trump	5
+2	Donut Media	2
+24	DoodleChaos	2
+2	Doug DeMuro	3
+25	Douglas Thron	5
+17	Dude Perfect	9
+26	Dulce Candy	4
+24	E! Entertainment	24
+24	E! Live from the Red Carpet	7
+24	E! News	8
+20	EA Star Wars	3
+10	EDEN	5
+23	ELLE	3
+17	ESPN	31
+20	ETA PRIME	2
+24	ETC Show	3
+17	EUROLEAGUE BASKETBALL	2
+26	Eater	3
+10	Echosmith	6
+25	Ed Gillespie	1
+10	Ed Sheeran	6
+28	ElectroBOOM	5
+10	Elevation Worship	4
+10	Eli Lieb	4
+22	Elizabeth Preza	2
+24	Elvis Duran Show	4
+10	Emmalyn Estrada	2
+28	Engadget	6
+2	Engineering Explained	6
+17	Enter Name Here	3
+10	Enter Shikari	5
+10	Entertainment Tonight	5
+24	Entertainment Tonight	10
+10	Eric Blattberg	1
+23	Evelyn From The Internets	1
+24	EverythingApplePro	12
+24	Exclusive World Premiere	5
+20	ExileLord	2
+23	ExplosmEntertainment	18
+24	FBE	6
+22	FJOJR	2
+10	FLETCHERVEVO	4
+24	FOX	7
+24	FOX 11 Los Angeles	5
+17	FOX SportsDetroit	1
+17	FOXSportsMidwest	4
+10	FallOutBoyVEVO	6
+25	Fan Dick	3
+24	Fathom Events	3
+10	FergieVEVO	18
+22	Field of Vision	3
+10	FifthHarmonyVEVO	1
+24	Fifty Shades	3
+17	FightHype.com	1
+24	FilmRise Releasing	3
+25	First Baptist Dallas	2
+26	First We Feast	39
+10	FirstAidKitVEVO	4
+26	Fleur DeForce	7
+22	Flightless	3
+28	Flossy Carter	4
+24	Focus Features	5
+23	Foil Arms and Hog	3
+26	Food Wishes	16
+17	Football Insider	1
+24	FootofaFerret	1
+2	Ford Europe	2
+2	Ford Motor Company	4
+25	Fortune Magazine	1
+25	Fox News	11
+1	FoxSearchlight	11
+1	Framestore	5
+22	Francis Dominic	1
+10	Frane Rogosic	4
+2	François Gissy	5
+17	FreeDawkins	8
+1	Freestyle Digital Media	7
+26	From Head To Toe	11
+10	Fueled By Ramen	6
+22	Full Frontal with Samantha Bee	19
+20	Funny Local News	4
+25	Funny Local News	2
+17	Futbol La Pasion	2
+10	GEazyMusicVEVO	1
+24	GOTDAMN ZO	4
+2	GRAN TURISMO TV	4
+17	Gab707	2
+26	Gabbie Hanna	3
+10	Galantis	3
+24	Galen Hooks	2
+10	Gallant	5
+20	GameTrailers	2
+1	GameofThrones	14
+24	Geezus66	2
+10	Genius	7
+26	Gentle Whispering ASMR	4
+24	Giaco Whatever	6
+26	Gigi Gorgeous	4
+22	Glam&Gore	19
+1	Glyph Jockey	1
+17	GoPSUtv	1
+17	GoPro	9
+24	Good Morning America	9
+24	Good Morning Britain	6
+23	Good Mythical MORE	11
+23	Good Mythical Morning	27
+24	Good Mythical Morning	5
+28	Google	6
+24	Gordon Ramsay	5
+22	Grace Helbig	26
+10	GraceVanderWaalVEVO	10
+10	Grand Ole Opry	6
+26	Grandpa Kitchen	5
+20	Great Big Story	2
+22	Great Big Story	8
+10	Green Day	1
+27	Greg and Mitch	9
+10	GregoryPorterVEVO	3
+10	Grey	1
+1	Grist	1
+25	Guardian Wires	22
+24	Guinness World Records	2
+27	Gun Runnerz	2
+23	Gus Johnson	19
+10	GwenStefaniVEVO	9
+17	GymCastic	3
+1	HBO	10
+1	HBOBoxing	4
+17	HEALYVIDEO	2
+24	HISTORY	1
+10	HOT 97	13
+22	HYPEBEAST	2
+22	Hailee Steinfeld	1
+10	HaileeSteinfeldVEVO	4
+10	HaimVEVO	7
+27	Half as Interesting	20
+10	HalseyVEVO	3
+23	Hamish & Andy	1
+23	Hannah Stocking	18
+22	Happy	3
+26	Harper's BAZAAR	1
+28	HassoPlattnerInstitute HCI	1
+10	Hayley Kiyoko	2
+24	HellthyJunkFood	28
+2	Hennessey Performance	2
+22	Henrique B. Freitas	2
+24	Hevesh5	6
+22	HiHo Kids	3
+23	Hispanglosaxon	3
+27	Historia Civilis	3
+10	Hollyn	4
+26	HomeMadeModern	4
+23	Hot Dad	1
+17	How Ridiculous	5
+26	How To Cake It	22
+26	How To Cook That	1
+25	Huckabee	4
+10	Hudson Moore	5
+24	Hulu	9
+10	Hunter Hayes	5
+25	Hymes Jeff	3
+26	I Covet Thee	4
+10	IAmAnneMarie	2
+1	IFC Films	3
+20	IGN	4
+24	IGN	1
+2	IIHS	5
+23	IISuperwomanII	17
+15	INSIDER	1
+19	INSIDER	4
+26	INSIDER	5
+28	INSIDER	2
+24	IRONMANTriathlon	5
+10	ITSLEONLEONVEVO	3
+24	IdolxVoice	2
+10	ImagineDragonsVEVO	10
+22	In Real Life	5
+26	Ingrid Nilsen	15
+25	Inside Edition	16
+28	Intel	3
+28	Ionel Ciobanuc	2
+27	It's Okay To Be Smart	4
+23	JBJmanagement	2
+24	JK Brickworks	5
+23	JOLLY	4
+24	Jack Black	5
+23	Jack and Dean	4
+26	Jackie Aina	21
+22	Jackson Pacheco	1
+26	Jaclyn Hill	17
+10	Jacob Sartorius	4
+10	JacobBanksVEVO	3
+1	Jaiden Animations	8
+22	Jake Paul	11
+10	JakeBuggVEVO	4
+10	James Blunt	4
+24	James Charles	16
+10	JamesTWVEVO	4
+22	Jamie Baker	5
+22	Jamie Genevieve	4
+24	Jamie Stangroom	4
+22	Jan N	7
+22	Jane Smith	2
+2	Jared's Garage	2
+10	Jason Derulo	5
+19	JeffHK	2
+23	JennThe Mermaid	5
+23	JennaMarbles	14
+26	Jenny Mustard	1
+1	Jenny Nicholson	12
+24	Jeremy Jahns	20
+10	JeremyCampVEVO	10
+26	JerryRigEverything	8
+28	JerryRigEverything	4
+10	Jersy Del Rio	3
+24	Jesse	4
+23	JessiSmiles	5
+10	JessieJVEVO	10
+10	JessieWareVEVO	5
+10	Jhené Aiko	4
+23	Jimmy Kimmel Live	22
+24	Jimmy Kimmel Live	18
+1	Joanna Hausmann	4
+1	Jody's Corner	2
+23	Joe Goes	7
+23	Joel Hartley	1
+24	John Campea	4
+26	John Maclean	3
+29	Johns Hopkins All Children's Hospital	3
+28	Jonathan Morrison	10
+10	Jonathan Young	4
+26	Jordan Hanz	9
+28	Josef Prusa	3
+22	Josh Constine	2
+22	Joshua De Laurentiis	6
+15	Jukin Media	4
+1	Juliana LePine Sculptures- ENGLISH	3
+24	Julien Solomita	4
+23	Just Between Us	6
+22	JustineReed97	4
+22	KHOU 11	4
+22	KREM2	4
+25	KTNV Channel 13 Las Vegas	5
+10	KaneBrownVEVO	15
+1	Kat Napiorkowska	1
+1	Katy Perry	4
+24	Katy Perry	4
+10	KatyPerryVEVO	6
+26	Kayley Melissa	5
+10	Kelly Clarkson	9
+27	Kerry Wong	3
+22	Kevin Durant	7
+17	Kevin Noon	1
+23	Kevin Novobilsky	2
+1	Kevin Parry	5
+28	Kevin The Tech Ninja	2
+17	Key West Kayak Fishing	4
+10	Kid Rock	6
+10	Kiiara	4
+24	Kill'em	4
+10	Kim Roberts	5
+10	King Krule	3
+26	Kirsten Dirksen	2
+24	Kitchen Nightmares	14
+24	Kmart	2
+27	KnowledgeHub	4
+10	KodalineVEVO	6
+2	Koenigsegg	4
+10	Korea Beatbox TV	4
+10	Kpop Plus01	1
+10	KrewellaMusicVEVO	4
+10	Kris Wu	6
+10	KungsVEVO	3
+24	Kurt Hugo Schneider	9
+27	Kurzgesagt – In a Nutshell	13
+10	KygoOfficialVEVO	9
+22	Kylie Cosmetics	11
+24	LADbible	4
+10	LANYVEVO	5
+10	LIMO Recording Studio - PD	2
+24	LIVEKellyandRyan	8
+10	LP	4
+22	LTavvy	1
+23	LTavvy	3
+10	La Blogothèque	4
+23	La Guardia Cross	7
+23	Lady Gaga	4
+10	LanaDelReyVEVO	6
+25	Landsec	2
+27	Las Vegas Metropolitan Police	10
+24	LastWeekTonight	23
+23	Late Night with Seth Meyers	32
+26	LaurDIY	15
+26	Laura in the Kitchen	13
+23	Lauren Elizabeth	4
+10	Lauv	4
+10	LecraeVEVO	8
+24	LegallyArmedAmerica	4
+1	Legendary	6
+23	Lele Pons	20
+10	LeonardCohenVEVO	4
+1	Lessons from the Screenplay	5
+26	Levi's®	3
+10	LewisCapaldiVEVO	3
+10	LiamPayneVEVO	2
+27	Life Noggin	22
+22	Life Where I'm From	2
+10	Lin-Manuel Miranda - Topic	6
+24	Lindsey Stirling	6
+10	Linkin Park	11
+28	Linus Tech Tips	7
+1	Lionsgate Movies	12
+26	Lisa Eldridge	4
+10	Little Dragon	4
+24	Liza & Albbie	3
+23	Liza Koshy	24
+23	Liza Koshy Too	6
+10	Lizzo Music	2
+28	LockheedMartinVideos	6
+26	Lofty Pursuits	2
+24	Logan Paul Vlogs	13
+24	Looper	11
+22	Lori Light	3
+24	Lorraine	6
+25	Los Angeles Times	8
+27	Louis Rossmann	3
+10	LouisTomlinsonVEVO	5
+23	Lucas	1
+10	Lukas Graham	5
+28	Luke Skaff	2
+10	LukeBryanVEVO	3
+26	LustreLux	7
+28	Lutz Niggl	1
+25	Lynn Bay	1
+26	M2 TheS	1
+10	MGKVEVO	6
+10	MGMTVEVO	4
+22	MILO	2
+27	MIT OpenCourseWare	1
+17	MLB	14
+22	MLB Channel	1
+25	MSNBC	15
+24	MTV	6
+10	Macklemore LLC	8
+28	Made by Google	6
+22	Madelaine Petsch	24
+26	Madeyewlook	10
+10	MaggieRogersVEVO	4
+27	Maharishi University of Management	2
+22	Mahshid Mazooji	2
+23	Malec	4
+22	Malhar Takle	2
+26	Man About Cake	7
+26	Manny Mua	4
+22	Manto kay SO Afsanay	3
+22	MarenMorris	5
+28	Mark Rober	5
+10	Maroon5VEVO	11
+28	Marques Brownlee	34
+10	Martin Garrix	2
+10	Mashd N Kutcher	4
+27	MasterClass	4
+10	Matador Records	6
+24	Matt Stonie	10
+25	Matthew Roberts	7
+23	Matthias	4
+28	Matthias	7
+26	Matthias Wandel	5
+1	Matthijs Vlot	2
+10	MavinRecords	3
+1	Mayim Bialik	9
+20	Media Galactic	4
+22	Meet Arnold	30
+24	MegaBots Inc	4
+24	MeganBatoon	4
+10	Melodica Men	3
+27	Mental Floss	15
+22	Merrell Twins Live	4
+19	Metro Los Angeles	1
+28	Micah Elizabeth Scott	1
+22	Michael Zsohar	3
+24	Michelle Khare	5
+1	Mickey Mouse	5
+24	Mike Boyd	20
+24	Mike Gardner	4
+10	Miley's Darwin	5
+26	Mini Marley	3
+28	MinuteEarth	15
+23	Miranda Sings	3
+24	Mnet K-POP	3
+22	Molly Burke	4
+22	MoorInfo	5
+10	MorrisseyOnVEVO	8
+28	Moto Geek	1
+2	Motor Trend Channel	3
+1	Movieclips Trailers	4
+26	Mr. Kate	11
+28	Mrwhosetheboss	5
+26	Ms Deb Deb	2
+26	My Pale Skin	1
+26	MyHarto	14
+26	MyLifeAsEva	10
+24	NARLtv	1
+28	NASA Jet Propulsion Laboratory	5
+28	NASA Johnson	6
+28	NASA Langley Research Center	2
+1	NBA	3
+17	NBA	6
+17	NBA Conference	3
+17	NBA Highlights · YouTube	20
+25	NBC News	12
+17	NBC Sports	7
+10	NBTVEVO	2
+10	NEEDTOBREATHE	3
+22	NEON	3
+17	NFL	38
+22	NFL Interviews	5
+10	NFVEVO	11
+22	NN	4
+1	NOWNESS	1
+10	NPR Music	4
+28	NSA_Listbot	1
+22	NTK Network	4
+28	NURK FPV	4
+25	National Geographic	3
+28	National Science Foundation	5
+17	National Yo-Yo Contest	3
+15	Nature on PBS	5
+24	Nerdist	9
+24	Nerdwriter1	20
+24	Netflix	37
+17	New Mexico Lobos	2
+25	NewsFunnies	2
+10	NiallHoranVEVO	13
+24	Niana Guerrero	6
+10	Nick Loper	1
+17	Nick Ramos	2
+10	NickJonasVEVO	4
+10	Nickelback	3
+22	Nicole Guerriero	6
+10	Nigel John Stanford	3
+27	NightHawkInLight	4
+17	Nike	4
+26	NikkiPhillippi	1
+26	NikkieTutorials	11
+23	Niks Ļeoņenko	7
+17	Nile Wilson	21
+10	Nini McNean	3
+20	Nintendo	7
+2	Nissan USA	5
+17	Nittany Nation	3
+1	No Surrender Productions	1
+10	NoahCyrusVEVO	5
+27	Nobel Prize	3
+23	Nominous Animation	3
+22	Norm Krumpe	6
+23	Norm Macdonald	5
+22	Not Dan Harmon	3
+25	NotimexTV	2
+24	Nukazooka	5
+28	Numberphile	12
+27	NurdRage	2
+26	Nyma Tang	9
+2	OCDetailing	6
+1	ONE Media	5
+1	Oats Studios	2
+20	Oculus	6
+28	Odo Puiu Events	3
+24	Official Les Twins	3
+10	OfficialGucciMane	11
+23	OlanRogers	3
+24	Oli White	4
+22	One America Appeal	1
+24	Open Road Films	5
+17	Orange & White Report	3
+22	OsbornTramain	2
+24	Oscar De Gracia Jr.	1
+28	PBS Eons	3
+25	PBS NewsHour	19
+10	PTXofficial	2
+25	PTZtv	1
+10	Paramore	5
+24	Paramount Network	3
+1	Paramount Pictures	11
+26	Patricia Bright	9
+26	PatrickStarrr	8
+10	Paweł Zadrożniak	2
+15	Penny Loggins	1
+24	People are Awesome	5
+24	PeopleTV	5
+22	Pero Like	3
+10	Peter Hollens	11
+22	Peter McKinnon	6
+28	PeterSripol	3
+10	Petit Biscuit	4
+22	PewDiePie	7
+23	PewDiePie	3
+24	Philip DeFranco	9
+10	PhoebeRyanVEVO	3
+28	PhoneBuff	4
+26	Photography and Retouching with Denyer.pro	1
+10	PinkVEVO	15
+24	Pitch Perfect	4
+23	Pittsburgh Dad	5
+27	Pocketful of Primary	3
+20	Pokémon GO	2
+2	Polestar	2
+26	PolymomoTea	4
+10	Pop Blast	5
+24	PopularVideos	3
+10	PostmodernJukebox	5
+27	Practical Engineering	2
+10	PrettyMuchVEVO	4
+22	Primitive Technology	4
+25	ProPublica	2
+1	ProZD	18
+24	Proximity	5
+23	PsychoSoprano	9
+29	Public Citizen	2
+25	Quartz	5
+22	Quintessence Yachts	2
+10	R3HAB	4
+10	R5VEVO	9
+22	RAW	15
+24	REACT	5
+23	RM Videos	8
+25	RTV6 The Indy Channel	5
+25	RWW Blog	3
+22	Rachel and Jun	4
+10	RachelPlattenVEVO	5
+24	Rad Universe	1
+10	Radiohead	5
+23	Random Ryan	5
+22	Random Stuff	1
+22	Ranz Kyle	4
+2	Rasel Homemade creator	1
+24	Rclbeauty101	27
+10	Reach Records	11
+28	Real Engineering	10
+27	RealLifeLore	15
+25	ReasonTV	5
+22	RedBlue Divide	2
+22	Refinery29	4
+26	Refinery29	32
+28	Reigarw Comparisons	3
+22	Rifootball	1
+22	Rista Casmiaa	1
+24	Rita Ora	2
+24	Rob Czar	4
+24	Robert Jones	2
+10	Rock & Roll Hall of Fame	4
+25	Roll Call	5
+22	RomanAtwoodVlogs	10
+1	Rooster Teeth	9
+26	Rosanna Pansino	32
+26	Roxxsaurus	2
+10	Rudimental	3
+23	Rudy Mancuso	11
+24	Ryan Upchurch	11
+17	SB Nation	4
+22	SCOTT LEWITT	3
+10	SMTOWN	4
+26	SORTEDfood	13
+17	SPORTSNET	5
+27	SULPreservation	2
+24	SUPERFRUIT	29
+24	SYFY	5
+17	Sacramento Kings	1
+22	Safiya Nygaard	34
+2	Salomondrin	3
+22	Sam O'Nella Academy	2
+22	Sam O'Nella Vlog	5
+10	SamSmithWorldVEVO	20
+10	SanCiscoOfficial	2
+15	Sand Cat Sahara Team	2
+1	Sara Dietschy	4
+10	SarahClose1	3
+24	Saturday Night Live	24
+27	SciShow	26
+24	Scotty Cranmer	5
+1	Screen Junkies	23
+24	ScreenJunkies News	13
+1	ScreenPrism	17
+28	Seeker	5
+24	Shameless	5
+26	Shameless Maya	7
+28	Shandong Iraeta	4
+10	ShaniaTwainVEVO	8
+22	Shawn Johnson East	1
+22	Shawn Setaro	1
+26	Shay Mitchell	8
+10	SiaVEVO	5
+19	Simon and Martina	7
+22	Simon and Martina	2
+15	Simon's Cat	17
+28	Simone Giertz	4
+24	Simply Nailogical	31
+22	Siobhan O'Brien	5
+10	SiriusXM	3
+17	Skip and Shannon: UNDISPUTED	4
+28	Skunk Bear	3
+2	SlashGear	3
+28	SmarterEveryDay	7
+23	Smosh	15
+10	Snapchat	6
+10	Songs With My Daughter	2
+24	Sony Pictures Entertainment	13
+24	SonyPicturesClassics	5
+26	SoothingSista	2
+10	Sophia Grace	1
+24	SoulPancake	7
+20	South Park Studios	4
+28	SpaceX	16
+10	Spinnin' Records	2
+26	Sprinkleofglitter	4
+25	SquareTrade, Inc.	3
+10	St. Vincent	9
+24	Star Trek	5
+24	Star Wars	10
+28	StarTalk Radio	3
+28	Statoil	3
+25	Steve Fulop	2
+22	Steve Kovach	5
+28	Steve Mould	4
+10	Steven Malcolm	3
+10	Stone Sour	5
+22	Stop Bad Bicyclists In Wisconsin	4
+25	Storyful News	4
+24	Storyful Rights Management	3
+24	Streamy Awards	5
+19	Strictly Dumpling	11
+23	Studio C	15
+2	Subaru	5
+10	SumerianRecords	5
+20	Super Bunnyhop	3
+24	Super Deluxe	8
+22	SuperCarlinBrothers	29
+10	Synthetik Films	2
+17	Syracuse Orange sports on syracuse.com	4
+27	TED-Ed	19
+25	THE RESISTANCE Mind Tripper	3
+1	TIFF	1
+25	TIME	13
+22	TLSTV	4
+24	TMZ	16
+17	TMZSports	5
+24	TNT	5
+25	TODAY	19
+2	TOYOTA GAZOO Racing	3
+25	TP Clips 8	9
+24	TRL	10
+28	TUMuenchen1	4
+24	TV Guide	6
+22	TV Shows	5
+10	TamarbraxtonVEVO	5
+17	Tasty	4
+26	Tasty	8
+26	Tati	8
+10	Taylor Swift	15
+10	TaylorSwiftVEVO	3
+23	Team Coco	27
+23	Team Edge	6
+28	Tech Insider	21
+28	TechCrunch	4
+24	TechRax	5
+24	Teen Vogue	8
+10	Terror Jr	1
+26	Tess Christine	4
+28	Tested	18
+17	Texas A&M Athletics	2
+10	The Academic	4
+22	The Atlantic	3
+22	The Bella Twins	3
+24	The CW Television Network	6
+24	The Chi	4
+15	The Cincinnati Zoo & Botanical Garden	2
+23	The Daily Show with Trevor Noah	6
+24	The Doctors	6
+15	The Dodo	26
+1	The Economist	2
+22	The Film Culture Media	2
+1	The Film Theorists	18
+19	The Food Ranger	8
+26	The Gabbie Show	14
+22	The Gabbie Vlogs	4
+20	The Game Theorists	4
+29	The Global Goals	5
+24	The Graham Norton Show	16
+23	The Gregory Brothers	2
+20	The Guides	2
+17	The Herd with Colin Cowherd	4
+27	The Illusion contest	3
+27	The Infographics Show	29
+24	The Jonathan Ross Show	4
+23	The Key of Awesome	10
+23	The Last Leg	4
+24	The Late Late Show with James Corden	37
+24	The Late Show with Stephen Colbert	30
+25	The Liberty Hound	2
+22	The Mighty EROCK	5
+22	The Mom's View	6
+24	The New York Times	3
+25	The New York Times	10
+28	The New York Times	3
+25	The Oregonian	11
+24	The Orville	2
+24	The Real Daytime	3
+24	The Ringer	3
+24	The Rock	9
+1	The Royal Butler	1
+25	The Royal Family Channel	6
+27	The School of Life	26
+26	The Scran Line	25
+10	The Shadowboxers	1
+24	The Slow Mo Guys	5
+1	The Solomon Society	3
+24	The Talk	4
+25	The Telegraph	6
+23	The Tonight Show Starring Jimmy Fallon	38
+28	The Verge	17
+24	The View	9
+25	The View	4
+24	The Voice	9
+24	The X-Files	5
+10	The xx	5
+22	TheAmazingTen	5
+28	TheBackyardScientist	5
+24	TheEllenShow	38
+24	TheHoustonFactor	2
+10	TheMaineOfficialVEVO	4
+23	TheOdd1sOut	12
+24	TheRealFake00	3
+24	TheReportOfTheWeek	3
+10	TheScoreVEVO	5
+10	TheShinsVEVO	2
+10	TheSnakeCharmer	1
+10	TheVampsVEVO	2
+24	This Is Us	4
+24	This Morning	7
+22	Thomas Bikias	2
+10	Thomas Rhett	5
+23	Thomas Sanders	5
+10	ThomasRhettVEVO	1
+29	Thorn	1
+26	ThreadBanger	14
+15	TierZoo	2
+20	TierZoo	7
+22	TimEE	2
+10	TimMcGrawVEVO	2
+10	TimandFaithVEVO	6
+26	Timberland	1
+26	Tina Yong	4
+24	Tinder	5
+10	Tiësto	7
+17	Tom Daley	7
+27	Tom Scott	19
+10	TomWalkerVEVO	5
+28	Tom’s Guide	3
+10	ToniBraxtonVEVO	5
+24	Tony's - 24/7 Eyes	6
+19	TouringPlans	1
+10	ToveLoVEVO	5
+2	Toyo Tire USA Corp	4
+24	Trailers Promos Teasers	9
+10	Triz Cru TV	3
+22	Tyler H	3
+24	Tyler Oakley	13
+17	U.S. Soccer	4
+10	U2VEVO	6
+17	UCF Knights	2
+17	UFC - Ultimate Fighting Championship	10
+17	UFC ON FOX	10
+24	ULOOK2	4
+22	US News Channel	1
+17	US Open Tennis Championships	2
+25	USA TODAY	13
+17	USA TODAY Sports	4
+27	USAFAOfficial	6
+10	Ultra Music	7
+28	Unbox Therapy	20
+17	Under Armour	2
+25	United Nations	3
+24	Universal Pictures UK	4
+28	University of Florida - Department of Physics	3
+28	UrAvgConsumer	15
+20	UseFul Video	2
+23	VELCRO® Brand	4
+24	VHS Video vault	4
+25	VICE News	6
+22	VLOGTOWSKI	7
+17	Vanderbilt Athletics	1
+27	Vanderbilt University	1
+23	Vanity Fair	6
+24	Vanity Fair	6
+24	VariantComics	5
+24	Variety	7
+24	Vat19	2
+27	Veritasium	4
+1	Vertical Entertainment LA	2
+10	Victor Hugo GP	2
+24	Video Detective	1
+22	Video Library	3
+24	VintageTVCommercials	2
+15	ViralHog	2
+22	ViralHog	13
+24	ViralVideoUK	4
+22	Vogue	3
+24	Vogue	18
+2	VolkswagenDanmark	3
+10	Volpe Music	5
+25	Vox	39
+28	Vox	1
+27	Vsauce3	4
+24	WATSKY!	4
+25	WBAL-TV 11 Baltimore	2
+19	WDW News Today	3
+24	WEDR 99 JAMZ	2
+25	WFAA	5
+1	WIRED	2
+17	WIRED	4
+24	WIRED	8
+28	WIRED	8
+25	WKRG	1
+25	WPTV News | West Palm Beach Florida	3
+17	WSUCougarAthletics	4
+17	WWE	23
+10	Walk off the Earth	10
+10	WalkTheMoonVEVO	9
+27	Walmart	4
+24	WalrusRider	5
+24	Warner Bros. Pictures	22
+22	Warr Dogz	2
+25	Washington Free Beacon	3
+25	Washington Post	11
+24	Wassabi Productions	14
+24	Watch What Happens Live with Andy Cohen	30
+24	WatchCut Video	19
+24	WatchMojo.com	5
+24	Watford Fc	2
+10	WeAreLostKingsVEVO	5
+27	Wendover Productions	9
+24	Wendy Williams	20
+26	Wengie	5
+28	What's Inside?	6
+24	WhatsUpMoms	1
+10	Why Don't We	3
+22	Wil Dasovich	19
+24	Will & Grace	7
+28	William Osman	8
+28	Windows Developer	3
+10	WolfAliceVEVO	3
+24	Wong Fu Productions	6
+22	Working at Microsoft	2
+22	World TV	3
+10	WuTangClanVEVO	1
+10	XAmbassadorsVEVO	5
+17	Ximo Pierto	7
+22	Xov Xwm_Lom Zem	4
+22	Xposure 365 TV	3
+17	XtremeTeamTV	2
+24	YBF Chic	7
+10	Yelle	4
+26	You Suck At Cooking	10
+24	YouTube FanFest	2
+10	Z100 is New York	5
+10	ZEDDVEVO	5
+10	ZaynVEVO	1
+26	Zoella	5
+24	ZwanMonster	3
+28	aao331	1
+17	adamisTV	4
+17	adidas	1
+24	amc	6
+23	austinmcconnell	6
+10	banksVEVO	4
+1	barnabydixon	3
+22	bill wurtz	6
+24	boogie2988	5
+26	bubzbeauty	2
+26	clothesencounters	4
+2	colinfurze	14
+24	colinfurze	3
+23	consumer	11
+26	cutepolish	6
+22	david cartwright	1
+10	dejloafVEVO	4
+24	devinsupertramp	1
+24	doddlevloggle	2
+10	dodieVEVO	5
+1	dsf2006	3
+26	emmymadeinjapan	6
+25	euronews (in English)	3
+28	explorationfilms	2
+17	falson	1
+20	fire3element	5
+10	georgemichaelVEVO	3
+10	googledoodles	6
+26	grav3yardgirl	18
+24	gusma28	2
+28	hackerspaceshop	1
+28	iDB	2
+17	iFL TV	1
+28	iFixit Video	2
+22	iJustine	25
+28	iJustine	2
+17	iVod Channel	1
+10	ibighit	8
+26	iskra	2
+1	itsAlexClark	6
+23	jacksfilms	38
+10	james doakes	1
+10	jbalvinVEVO	7
+26	jeffreestar	7
+10	johnlegendVEVO	7
+10	jypentertainment	3
+22	kaptainkristian	3
+22	katilette	5
+26	kawaiisweetworld	3
+10	kimbramusic	8
+10	kirstinVEVO	3
+26	leighannsays	4
+25	madison.com	1
+22	markit aneight	7
+10	marshmello	6
+22	max berger	2
+2	mayhugh1	2
+26	mayratouchofglam	2
+10	melanie martinez	2
+10	michaeljacksonVEVO	6
+28	minutephysics	11
+22	montejenningsjr	3
+15	mugumogu	4
+22	news usa	3
+24	nigahiga	12
+25	nknewsorg	4
+22	nono du rire nono	2
+26	pixiwoo	13
+24	sWooZie	5
+10	schmoyoho	5
+24	schmoyoho	5
+10	shakiraVEVO	7
+22	shane	13
+26	sonjdradeluxe	3
+19	stere0123	1
+10	stitches	2
+26	thataylaa	17
+1	the Hacksmith	1
+27	thebrainscoop	6
+1	theflippist	10
+22	thejasminebrand	5
+10	tkvids	5
+24	truTV	15
+28	uniservo	2
+20	ustwo games	1
+17	utsportstv	4
+22	vlogbrothers	38
+2	weatherguru76	1
+10	weezer	9
+10	zachwilliamsVEVO	2
+22	Émile Paquette	2
+22	МИР УДИВЛЯЕТ v2.0	2
+2	Мегаполис	4
+25	Томикс-ТВ online	1
+26	ユカイ工学	2
+k Times
+11	The Oregonian
+2	The Orville
+3	The Real Daytime
+3	The Ringer
+9	The Rock
+1	The Royal Butler
+6	The Royal Family Channel
+26	The School of Life
+25	The Scran Line
+1	The Shadowboxers
+5	The Slow Mo Guys
+3	The Solomon Society
+4	The Talk
+6	The Telegraph
+38	The Tonight Show Starring Jimmy Fallon
+17	The Verge
+13	The View
+9	The Voice
+5	The X-Files
+5	The xx
+5	TheAmazingTen
+5	TheBackyardScientist
+38	TheEllenShow
+2	TheHoustonFactor
+4	TheMaineOfficialVEVO
+12	TheOdd1sOut
+3	TheRealFake00
+3	TheRepor
